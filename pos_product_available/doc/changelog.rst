@@ -3,6 +3,17 @@
 Updates
 =======
 
+`1.0.5`
+-------
+
+- **FIX:** Product quantities representation according to the set location
+- **FIX:** Product quantities representation only for stockable products
+
+`1.0.4`
+-------
+
+- [FIX] incorrect products quantity numbers with pos_cache module.
+
 `1.0.3`
 -------
 

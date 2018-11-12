@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 {
     'name': "Keyboard support in Point Of Sale",
     'author': "IT-Projects LLC, Ivan Yelizariev",
@@ -10,7 +9,7 @@
     'license': 'LGPL-3',
     'version': '1.0.2',
     'depends': ['point_of_sale'],
-    "price": 100.00,
+    "price": 15.00,
     "currency": "EUR",
     'data': [
         'data.xml',
